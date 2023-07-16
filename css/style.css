@@ -636,6 +636,14 @@ h3.my-profession
     line-height: 25px;
 }
 /* portfolio */
+.titulo-portfolio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-black-900);
+}
+
+
 .portfolio .container
 {
     padding-bottom: 40px;
