@@ -54,6 +54,7 @@ ul
     overflow-x: hidden;
     transition: all 0.3s ease;
 }
+
 .section.back-section
 {
     z-index: 1;
